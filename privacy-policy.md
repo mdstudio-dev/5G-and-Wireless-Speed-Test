@@ -2,7 +2,7 @@
 
 **Effective Date:** November 3, 2026
 **Developer:** ouayat studio  
-**Contact:** fezdecor@gmail.com
+**Contact:** ouayatstudio@gmail.com
 
 ouayat studio built the **5G & Wireless Speed Test** application as an Ad-supported app. This SERVICE is provided by ouayat studio at no cost and is intended for use as is.
 
